@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Syllout_App Content Generator tool** is an open-source Flutter application designed to help educators create educational content efficiently using AI(local and api). This app leverages API-based model inference to process user inputs and generate comprehensive course content. It features a clean and intuitive user interface, making it accessible and easy to use for educators without the need for a login.
+The **Syllout_App Content Generator tool** is an open-source Flutter application designed to help educators create educational content efficiently using AI(local and api). This app leverages API-based model inference to process user inputs and generate comprehensive course content. It features a clean and intuitive user interface
 
 ## Features
 
