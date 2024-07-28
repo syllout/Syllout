@@ -18,9 +18,6 @@ The **Syllout_App Content Generator tool** is an open-source Flutter application
 - **Text to PDF** Converts text to pdf format and can be downloaded(need to be added)  
 
 ## Future Enhancements
-
-- **User Authentication:** Adding login functionality to save user preferences and history.
-- **Content Sharing:** Built-in options to share the generated content via email, messaging apps, or cloud services.
 - **Advanced AI Features:** Incorporate more advanced NLP features such as summarization, question answering, etc.
 - **Backend Integration:** Integration with backend services for more complex workflows and data storage.
 
